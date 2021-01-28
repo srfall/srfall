@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**srfall/srfall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Master Student at the [Ecosystem Modeling Group](https://www.biozentrum.uni-wuerzburg.de/cctb/research/ecosystem-modeling/) at the [Center for Computaional & Theoretical Biology (CCTB)](https://www.biozentrum.uni-wuerzburg.de/cctb/cctb/) at the [University Würzburg](https://www.uni-wuerzburg.de). At the moment i'm working on an R package in which i implement a mechanistic and metabolic explicit Species Distribution Model [metaRange](https://srfall.github.io/metaRange) (not public yet).
 
-Here are some ideas to get you started:
+[![My github stats](https://github-readme-stats.vercel.app/api?username=srfall&layout=compact&theme=radical&show_icons=true)](https://github.com/srfall/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- &title_color=ff002b&icon_color=00aaff&text_color=ff5500&bg_color=151515 ---> 
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srfall&layout=compact&theme=radical" /> -->
+
+
+
+---
+<br>
+
+<p align="center">
+
+[![R](https://img.shields.io/badge/--1f65b7?style=flat&logo=r&link=https://github.com/m-clark/)](https://github.com/m-clark?tab=repositories&q=&type=&language=r) <span class="" style = ""></span>
+</p>
