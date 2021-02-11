@@ -5,10 +5,10 @@ I'm a Master Student at the [Ecosystem Modeling Group](https://www.biozentrum.un
 [Here](https://srfall.github.io) is my website. 
 
 ---
-[![My github stats](https://github-readme-stats.vercel.app/api?username=srfall&layout=compact&theme=slateorange&show_icons=true)](https://github.com/srfall/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=srfall&layout=compact&theme=onedark&show_icons=true)](https://github.com/srfall/github-readme-stats)
 
 <!-- &title_color=ff002b&icon_color=00aaff&text_color=ff5500&bg_color=151515 ---> 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srfall&layout=compact&theme=slateorange" /> -->
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srfall&layout=compact&theme=onedark" /> -->
 ---
 
 <p align="center">
