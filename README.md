@@ -5,13 +5,13 @@ I'm a Master Student at the [Ecosystem Modeling Group](https://www.biozentrum.un
 [Here](https://srfall.github.io) is my website. 
 
 ---
-[![My github stats](https://github-readme-stats.vercel.app/api?username=srfall&layout=compact&theme=calm&show_icons=true)](https://github.com/srfall/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=srfall&layout=compact&theme=calm&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- &title_color=ff002b&icon_color=00aaff&text_color=ff5500&bg_color=151515 ---> 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srfall&layout=compact&theme=calm" /> -->
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=srfall&layout=compact&theme=calm&show_icons=true&count_private=true" /> -->
 ---
 
 <p align="center">
 
-[![R](https://img.shields.io/badge/--1f65b7?style=flat&logo=r&link=https://github.com/m-clark/)](https://github.com/srfall?tab=repositories&q=&type=&language=r) <span class="" style = ""></span>
+[![R](https://img.shields.io/badge/--1f65b7?style=flat&logo=r&link=https://github.com/srfall/)](https://github.com/srfall?tab=repositories&q=&type=&language=r) <span class="" style = ""></span>
 </p>
