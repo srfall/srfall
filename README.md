@@ -8,7 +8,6 @@
 </p>
 
 ---
-## Hey
 
 I'm a Master Student at the [Ecosystem Modeling Group](https://www.biozentrum.uni-wuerzburg.de/cctb/research/ecosystem-modeling/) at the [Center for Computational & Theoretical Biology (CCTB)](https://www.biozentrum.uni-wuerzburg.de/cctb/cctb/)/ [University Würzburg](https://www.uni-wuerzburg.de). At the moment I'm working on an R package called [metaRange](https://srfall.github.io/metaRange) (not public yet), in which I implement a mechanistic and metabolic explicit species distribution model.
 
