@@ -2,7 +2,7 @@
   <samp>
     <a href="https://srfall.github.io">website</a> |
     <a href=https://srfall.github.io/metaRange.html>science</a> |
-    <a href=https://srfall.github.io/NaturalHeritage.html>projects</a> |
+    <a href=https://srfall.github.io/NaturalHeritage.html>projects</a>
   </samp>
 </p>
 
