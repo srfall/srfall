@@ -3,7 +3,6 @@
     <a href="https://srfall.github.io">website</a> |
     <a href=https://srfall.github.io/metaRange.html>science</a> |
     <a href=https://srfall.github.io/NaturalHeritage.html>projects</a> |
-    <a href=https://github.com/srfall/tidytuesday>data visualization</a>
   </samp>
 </p>
 
